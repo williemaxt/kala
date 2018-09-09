@@ -1,4 +1,5 @@
 # kala
+<<<<<<< HEAD
 
 > An elegant currency conversion tool
 
@@ -25,3 +26,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+a unit conversion app written in node
+>>>>>>> 93b2ae74d0566913360747a4dfb88722d2f7a1e2
